@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://live.staticflickr.com/8035/8015296149_72caf501d9_b.jpg" alt="Mike Tyson"/><img width="807" height="1024" alt="image" src="https://github.com/user-attachments/assets/ba428794-6c6c-4fa1-ba13-c5cffa2da397" />
-
+<img src="https://live.staticflickr.com/8035/8015296149_72caf501d9_b.jpg" alt="Mike Tyson"/><img width="807" height="1024" alt="image" 
 <!--
 **HAhakobyan26/HAhakobyan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
