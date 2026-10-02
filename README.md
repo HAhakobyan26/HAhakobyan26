@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://live.staticflickr.com/8035/8015296149_72caf501d9_b.jpg" alt="Mike Tyson"/>
+<img src="https://live.staticflickr.com/8035/8015296149_72caf501d9_b.jpg" alt="Mike Tyson"/
 **HAhakobyan26/HAhakobyan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
